@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Nowa</string>
+    <string name="button_name">MyButton</string>
+    <string name="some_text">cos tam</string>
+</resources>
